@@ -1,0 +1,44 @@
+
+body{
+    background-color: 	#222324;
+        
+}    
+h1,h2,h3{
+    color: aliceblue;
+    font-size: 35px;
+}   
+p{
+    color:rgb(255, 0, 115);
+    font-size: 25px;
+}
+.cerceve{
+    width: 80%;
+    overflow: hidden;
+    border: 4px solid #222324;
+    box-sizing: border-box;
+    
+}
+.görsel{
+    position: relative;
+    width: 400%;
+    left: 0%;
+    animation: 16s slayt infinite;
+}
+.görsel img{
+    width: 25%;
+    float: left;
+}
+@keyframes slayt{
+    0%{left:0%;}
+    20%{left:0%;}
+    25%{left:-100%;}
+    45%{left:-100%;}
+    50%{left:-200%;}
+    70%{left:-200%;}
+    75%{left:-300%;}
+    90%{left:-300%;}
+
+
+
+
+}
