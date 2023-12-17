@@ -1,0 +1,89 @@
+.resim{
+    text-align: center;
+}
+
+.arama{
+    font-size: 10px;
+    text-align: center;
+    border: 4px solid gainsboro;
+    background-color: rgb(202, 191, 191);
+  
+}
+
+.aramakutusu{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    width: 80%;
+    border: 4px solid gray;
+    background-color: aliceblue;
+}
+
+.ara{
+    float: left;
+   font-size: 10px;
+  text-align: center;
+  width: 50%;  
+  border: 1px solid black;
+  background-color: aliceblue;
+  padding-right: 10%;
+}
+
+.özellestir{
+    text-align: center;
+    border: 1px solid black;
+    font-size: 10px;
+    background-color: aliceblue;
+    
+    
+    
+
+}
+
+.first{
+    float: left;
+    background-color: rgb(70, 195, 161);
+    margin: auto;
+    width: 495px;
+    padding: 40px;
+    text-align: center;
+    height: 160px;
+}
+.two{
+    margin-right: 60px;
+float: left;
+padding: 60px;
+  width: 150px;
+ position: absolute;
+ left: 38%;
+    background-color: rgb(45, 137, 112);
+    height: 120px;
+}
+.three{
+    position: absolute;
+    right: 0;
+    background-color: rgb(11, 145, 109);
+    margin: auto;
+    width:600px;
+    padding: 40px;  
+    height: 160px;
+    
+    
+}
+
+.twoarama{
+    padding: 10px;
+    width: 400px;
+    height: 30px;
+    border: 4px solid gray;
+    background-color: aliceblue;
+}
+.threearama{
+
+    padding: 10px;
+    width: 60px;
+    height: 10px;
+    border: 4px solid rgb(115, 94, 94);
+    background-color: white;
+}
+
